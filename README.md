@@ -1,3 +1,3 @@
-# interface-numerical-method
-These are common interfaces for several numerical methods\
-Это общие интерфейсы для несколько численных методов
+# Numerical-method
+Implementation for multiple numerical methods\
+Реализация для несколько численных методов
